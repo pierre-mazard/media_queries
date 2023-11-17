@@ -15,7 +15,9 @@
 .menu-icon {
     display: none;
 }
-
+.checkbox{
+    visibility: hidden;
+}
 @media (max-width: 767px) {
     #navbar {
         display: none;
